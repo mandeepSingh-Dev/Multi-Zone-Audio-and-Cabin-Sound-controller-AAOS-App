@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.oem.audiocontrol">
+        <permission name="android.car.permission.CAR_CONTROL_AUDIO_VOLUME" />
+        <permission name="android.car.permission.CAR_CONTROL_AUDIO_SETTINGS" />
+        <permission name="android.car.permission.CAR_POWER" />
+        <permission name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    </privapp-permissions>
+</permissions>
